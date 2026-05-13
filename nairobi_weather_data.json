@@ -1,0 +1,61 @@
+{
+    "location": {
+        "name": "Nairobi",
+        "region": "Nairobi Area",
+        "country": "Kenya",
+        "lat": -1.2833,
+        "lon": 36.8167,
+        "tz_id": "Africa/Nairobi",
+        "localtime_epoch": 1778693276,
+        "localtime": "2026-05-13 20:27"
+    },
+    "current": {
+        "last_updated_epoch": 1778692500,
+        "last_updated": "2026-05-13 20:15",
+        "temp_c": 18.0,
+        "temp_f": 64.4,
+        "is_day": 0,
+        "condition": {
+            "text": "Light rain",
+            "icon": "//cdn.weatherapi.com/weather/64x64/night/296.png",
+            "code": 1183
+        },
+        "wind_mph": 5.4,
+        "wind_kph": 8.6,
+        "wind_degree": 75,
+        "wind_dir": "ENE",
+        "pressure_mb": 1022.0,
+        "pressure_in": 30.18,
+        "precip_mm": 0.37,
+        "precip_in": 0.01,
+        "humidity": 83,
+        "cloud": 75,
+        "feelslike_c": 18.0,
+        "feelslike_f": 64.4,
+        "windchill_c": 16.8,
+        "windchill_f": 62.2,
+        "heatindex_c": 16.8,
+        "heatindex_f": 62.2,
+        "dewpoint_c": 15.6,
+        "dewpoint_f": 60.1,
+        "vis_km": 8.0,
+        "vis_miles": 4.0,
+        "uv": 0.0,
+        "gust_mph": 8.8,
+        "gust_kph": 14.1,
+        "will_it_rain": 1,
+        "chance_of_rain": 100,
+        "will_it_snow": 0,
+        "chance_of_snow": 0,
+        "air_quality": {
+            "co": 365.85,
+            "no2": 8.15,
+            "o3": 85.0,
+            "so2": 4.25,
+            "pm2_5": 11.85,
+            "pm10": 11.95,
+            "us-epa-index": 1,
+            "gb-defra-index": 1
+        }
+    }
+}
