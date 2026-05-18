@@ -35,7 +35,7 @@ def load_to_db(df: pd.DataFrame, table_name: str = "crypto_paprika") -> None:
         df.to_sql(
             name=table_name,
             con=engine,
-            if_exists='replace',
+            if_exists='append',
             index=False,
             method='multi',
             chunksize=1000
